@@ -8,6 +8,6 @@ A simple calculator that performs addition, subtraction, multiplication, and div
 
 ---
 
-> Developed by: [Sahasra ]  
+> Developed by: [Akshith ]  
 > Submitted to: Alfido Tech  
 > Year: 2025
